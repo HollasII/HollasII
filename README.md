@@ -1,7 +1,7 @@
 Hi there 👋🏾
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nicholas-ewata-b0976b23b trk=profile-badge">Ewata Nicholas</a></div>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nicholas-ewata-b0976b23b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nicholas-ewata-b0976b23b">Ewata Nicholas</a></div>
               
-<span>Welcome To Hollas Profile😀😈</span>
+<span>Welcome To Hollas' Profile😀😈</span>
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/nicholas-ewata-b0976b23b"><img src="images/linkedin.png" width="60" /></a>
@@ -17,9 +17,9 @@ Here are some basic things to know about Hollas;
 - 👯 I’m looking to collaborate on projects,
 <!--- 🤔 I’m looking for help with--> 
 - 💬 Ask me about anything,
-- 📫 How to reach me: Email: <!-- Your Gmail -->, Phone: <!-- Your number -->,
+- 📫 How to reach me: Email: nicholasolajide@gmail.com, Phone: (+234) 09054212352, 08089080648,
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love <!-- What you love -->.
+- ⚡ Fun fact: I love Animes, gaming, movies, cartoons(basically all works of animation), comics and mangas(manhua/manwhas too), reading(mostly just fictional books).
 
 #### Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
