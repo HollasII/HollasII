@@ -1,4 +1,4 @@
-Hi there 👋🏾
+cHi there 👋🏾
 <div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nicholas-ewata-b0976b23b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nicholas-ewata-b0976b23b">Ewata Nicholas</a></div>
               
 <span>Welcome To Hollas' Profile😀😈</span>
@@ -47,5 +47,5 @@ Here are some basic things to know about Hollas;
 
 
 <!-- Find ur own picture, na my own pic dey here -->
-
+<code><img src="images/life.png"></code>
 
