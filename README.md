@@ -47,5 +47,5 @@ Here are some basic things to know about Hollas;
 
 
 <!-- Find ur own picture, na my own pic dey here -->
-<code><img src="images/life.png"></code>
+<code><img src="images/life.png" width="900"></code>
 
