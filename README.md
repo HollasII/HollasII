@@ -1,7 +1,7 @@
 Hi there 👋🏾
 <div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nicholas-ewata-b0976b23b trk=profile-badge">Ewata Nicholas</a></div>
               
-<span>Welcome To Hollas' Profile😀😈</span>
+<span>Welcome To Hollas Profile😀😈</span>
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/nicholas-ewata-b0976b23b"><img src="images/linkedin.png" width="60" /></a>
@@ -10,16 +10,16 @@ Hi there 👋🏾
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
-Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
+Here are some basic things to know about Hollas;
 
 - 🔭 I’m currently working on acquiring more skills,
 - 🌱 I’m currently learning Fullstack Web Development, with a hands on knowledge of the Frontend aspect of it
 - 👯 I’m looking to collaborate on projects,
 <!--- 🤔 I’m looking for help with--> 
 - 💬 Ask me about anything,
-- 📫 How to reach me: Email: adegokefuad1@gmail.com, Phone: +2347053539948,
+- 📫 How to reach me: Email: <!-- Your Gmail -->, Phone: <!-- Your number -->,
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Gaming.
+- ⚡ Fun fact: I love <!-- What you love -->.
 
 #### Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
@@ -46,7 +46,6 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
 
 
-#### Lifestyle
-![Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Post](https://user-images.githubusercontent.com/105937740/174781153-79d156a6-8e4a-4d8b-aa75-880be17afeac.jpg)
+<!-- Find ur own picture, na my own pic dey here -->
 
 
