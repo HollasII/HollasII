@@ -1,5 +1,5 @@
 Hi there 👋🏾
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/fuad-ajibola-5a0034166?trk=profile-badge">Ewata Nicholas</a></div>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nicholas-ewata-b0976b23b trk=profile-badge">Ewata Nicholas</a></div>
               
 <span>Welcome To Hollas' Profile😀😈</span>
 
